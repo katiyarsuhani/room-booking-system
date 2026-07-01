@@ -14,7 +14,7 @@ The Room Booking Project is a simple application that allows users to book rooms
   
 ## Contributors
 
-* Project Developer: Your Name
+* Project Developer: Suhani katiyar
 
 ## License
 
